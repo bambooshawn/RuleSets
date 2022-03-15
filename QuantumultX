@@ -76,8 +76,7 @@ static=SG, server-tag-regex=狮城|新|新加坡|🇸🇬|SG, img-url=https://ra
 # 国外媒体策略
 # static=GMedia, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/bambooshawn/icon/main/Policy-Filter/GMedia.png
 # 国外媒体细分策略
-# static=Netflix, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/bambooshawn/icon/main/Policy-Filter/Netflix.png
-static=Netflix, server-tag-regex=非自制, img-url=https://raw.githubusercontent.com/bambooshawn/icon/main/Policy-Filter/Netflix.png
+static=Netflix, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/bambooshawn/icon/main/Policy-Filter/Netflix.png
 # static=YouTube, Auto-Asia, img-url=https://raw.githubusercontent.com/bambooshawn/icon/main/Policy-Filter/Youtube.png
 # static=Spotify, Auto-Asia, img-url=https://raw.githubusercontent.com/bambooshawn/icon/main/Policy-Filter/Spotify.png
 # 国内媒体细分策略
