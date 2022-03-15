@@ -72,7 +72,7 @@ static=TW, server-tag-regex=台|台湾|TW, img-url=https://raw.githubusercontent
 # 新
 static=SG, server-tag-regex=狮城|新|新加坡|🇸🇬|SG, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SG.png
 # 国外连接策略
-# static=Outside, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Outside.png
+# static=Outside, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png
 # 国外媒体策略
 # static=GMedia, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
 # 国外媒体细分策略
