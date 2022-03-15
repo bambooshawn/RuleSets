@@ -158,7 +158,8 @@ final, Final
 # 本地服务器节点
 
 [server_remote]
-https://raw.githubusercontent.com/erdongchanyo/Rules/main/Quantumult%20X/LazyConf/edcFreeServer.list, tag=edcFreeServer, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/Airport/EDC.png, update-interval=172800, opt-parser=false, enabled=true
+https://subscribe.s7p7.top/link/yRVnvYQ0a8MNSZmu?list=quantumultx, tag=FastFrog, update-interval=172800, opt-parser=true, enabled=true
+https://sub.wallless.cloud/api/v1/client/subscribe?token=c64ec3e873379eccbcde50586c73d71d, tag=wallless, update-interval=172800, opt-parser=true, enabled=true
 # 服务器引用(订阅)，支持远程订阅地址和本地文件
 
 [rewrite_remote]
