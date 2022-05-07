@@ -77,20 +77,20 @@ static=Outside, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubuse
 static=GMedia, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
 # 国外媒体细分策略
 static=Netflix, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix.png
-static=YouTube, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Youtube.png
-static=Spotify, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spotify.png
+# static=YouTube, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Youtube.png
+# static=Spotify, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spotify.png
 # 国内媒体细分策略
 # static=Bilibili, HK, TW, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bilibili.png
 # static=iQiYi, TW, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/iqiyi.png
 # 软件&服务策略
 static=CryptoCurrency, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dinosaur.png
-static=Telegram, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
-static=Twitter, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
+# static=Telegram, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+# static=Twitter, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
 # static=TestFlight, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TestFlight.png
 # static=Speedtest, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Speedtest.png
 # static=PayPal, direct, US, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Paypal.png
 # static=Apple, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
-static=Google, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png
+# static=Google, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png
 # static=Microsoft, US, HK, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Microsoft.png
 # 国内连接策略
 static=Mainland, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/China_Map.png
