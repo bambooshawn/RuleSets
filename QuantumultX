@@ -72,25 +72,25 @@ static=TW, server-tag-regex=台|台湾|TW, img-url=https://raw.githubusercontent
 # 新
 static=SG, server-tag-regex=狮城|新|新加坡|🇸🇬|SG, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/SG.png
 # 国外连接策略
-# static=Outside, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png
+static=Outside, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Global.png
 # 国外媒体策略
-# static=GMedia, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
+static=GMedia, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/GlobalMedia.png
 # 国外媒体细分策略
 static=Netflix, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix.png
-# static=YouTube, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Youtube.png
-# static=Spotify, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spotify.png
+static=YouTube, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Youtube.png
+static=Spotify, Auto-Asia, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spotify.png
 # 国内媒体细分策略
 # static=Bilibili, HK, TW, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bilibili.png
 # static=iQiYi, TW, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/iqiyi.png
 # 软件&服务策略
 static=CryptoCurrency, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dinosaur.png
-# static=Telegram, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
-# static=Twitter, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
+static=Telegram, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
+static=Twitter, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Twitter.png
 # static=TestFlight, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/TestFlight.png
 # static=Speedtest, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Speedtest.png
 # static=PayPal, direct, US, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Paypal.png
 # static=Apple, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
-# static=Google, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png
+static=Google, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png
 # static=Microsoft, US, HK, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Microsoft.png
 # 国内连接策略
 static=Mainland, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/China_Map.png
@@ -107,23 +107,23 @@ static=Final, Auto-Asia, US, proxy, direct, img-url=https://raw.githubuserconten
 # Netflix规则
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list, tag=Netflix 规则, force-policy=Netflix, update-interval=86400, opt-parser=false, enabled=true
 # CryptoCurrency规则
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Cryptocurrency/Cryptocurrency.list, tag=CryptoCurrency 规则, force-policy=CryptoCurrency, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Cryptocurrency/Cryptocurrency.list, tag=CryptoCurrency 规则, force-policy=CryptoCurrency, update-interval=86400, opt-parser=false, enabled=true
 # Spotify规则
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list, tag=Spotify 规则, force-policy=Spotify, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Spotify/Spotify.list, tag=Spotify 规则, force-policy=Spotify, update-interval=86400, opt-parser=false, enabled=true
 # Youtube规则
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX//YouTube/YouTube.list, tag=YouTube 规则, force-policy=YouTube, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX//YouTube/YouTube.list, tag=YouTube 规则, force-policy=YouTube, update-interval=86400, opt-parser=false, enabled=true
 # 出国媒体规则
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list, tag=GMedia 规则, force-policy=GMedia, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/GlobalMedia/GlobalMedia.list, tag=GMedia 规则, force-policy=GMedia, update-interval=86400, opt-parser=false, enabled=true
 # Telegram规则
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list, tag=Telegram 规则, force-policy=Telegram, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list, tag=Telegram 规则, force-policy=Telegram, update-interval=86400, opt-parser=false, enabled=true
 # Paypal规则
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/PayPal/PayPal.list, tag=PayPal 规则, force-policy=PayPal, update-interval=86400, opt-parser=false, enabled=true
 # Microsoft规则
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Microsoft/Microsoft.list, tag=Microsoft 规则, force-policy=Microsoft, update-interval=86400, opt-parser=false, enabled=true
 # Twitter规则
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Twitter/Twitter.list, tag=Twitter规则, force-policy=Twitter, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Twitter/Twitter.list, tag=Twitter规则, force-policy=Twitter, update-interval=86400, opt-parser=false, enabled=true
 # Google规则
-# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list, tag=Google规则, force-policy=Google, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list, tag=Google规则, force-policy=Google, update-interval=86400, opt-parser=false, enabled=true
 # testflight规则
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TestFlight/TestFlight.list, tag=TestFlight, force-policy=TestFlight, update-interval=86400, opt-parser=false, enabled=true
 # Apple规则
