@@ -95,7 +95,7 @@ static=Twitter, Auto-Asia, US, SG, HK, TW, JP, Final, direct, img-url=https://ra
 # static=Speedtest, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Speedtest.png
 # static=PayPal, direct, US, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Paypal.png
 # static=Apple, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
-static=Google, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png
+static=Google, Auto-Asia, US, SG, HK, TW, JP, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Google.png
 # static=Microsoft, US, HK, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Microsoft.png
 # 国内连接策略
 static=Mainland, Final, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/China_Map.png
